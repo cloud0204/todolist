@@ -1,0 +1,33 @@
+* {
+  color: black;
+  text-decoration: none;
+}
+#app {
+  h1 {
+    color: red;
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+  }
+  #nav {
+    text-align: center;
+    a {
+      padding: 5px;
+      border-radius: 5px;
+      margin: 10px;
+    }
+    .router-link-exact-active {
+      background-color: rgb(11, 105, 39);
+      color: white;
+      // padding: 5px;
+      // border-radius: 5px;
+      // margin: 5px;
+    }
+    // .router-link-active {
+    //   padding: 5px;
+    //   border-radius: 5px;
+    //   margin: 5px;
+    // }
+  }
+}
