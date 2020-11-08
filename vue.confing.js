@@ -13,6 +13,7 @@ module.exports = {
 
     // publicPath: '/todolist/'
 
-    publicPath: './'
+    // publicPath: './'
+    publicPath: '/dist/'
 
 }
