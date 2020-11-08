@@ -5,7 +5,7 @@ module.exports = {
 
   // publicPath:'./todolist'
 
-  publicPath:''
+  // publicPath:''
 
   //  publicPath: process.env.NODE_ENV === 'production'
   //   ? '/todolist/'
@@ -13,7 +13,7 @@ module.exports = {
 
     // publicPath: '/todolist/'
 
-    // publicPath: './'
+    publicPath: './'
     // publicPath: '/dist/'
 
 }
