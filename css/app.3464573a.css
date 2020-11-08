@@ -1,0 +1,1 @@
+.todoInput{margin:50px}.todoInput,.todoitem{text-align:center}.todoitem .check:checked~label{color:red;text-decoration:line-through}*{color:#000;text-decoration:none}#app h1{color:red}#app #nav,#app h1,#app h2{text-align:center}#app #nav a{padding:5px;border-radius:5px;margin:10px}#app #nav .router-link-exact-active{background-color:#0b6927;color:#fff}
