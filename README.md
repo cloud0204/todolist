@@ -1,26 +1,18 @@
-# todolist
+# todolist 待辦事項
 
-## Project setup
-```
-npm install
-```
+## 簡介
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+練習使用 Vue cli，功能如下:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. 代辦事項的新增、移除與完成
+2. 儲存於 LocalStorage
+3. 資料於 Vuex 修改
+4. VueRouter 與 VueComponents 使用
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 使用技術
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-"# todolist" 
-"# todolist" 
+- Vue Cli 4
+- Vuex
+- VueRouter
+- VueComponents
+- JavaScript(ES6、LocalStorage 等)
